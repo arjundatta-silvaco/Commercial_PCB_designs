@@ -1,0 +1,14 @@
+# KiCad files: always LF, as KiCad writes them
+*.kicad_pro   text eol=lf
+*.kicad_sch   text eol=lf
+*.kicad_pcb   text eol=lf
+*.kicad_sym   text eol=lf
+*.kicad_mod   text eol=lf
+*-lib-table   text eol=lf
+
+# 3D models and fab outputs: never convert
+*.step   -text
+*.stp    -text
+*.wrl    -text
+*.zip    binary
+*.pdf    binary

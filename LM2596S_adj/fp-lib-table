@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Buck_LM2596S_adj") (type "KiCad") (uri "${KIPRJMOD}/libs/Buck_LM2596S_adj.pretty") (options "") (descr ""))
+)

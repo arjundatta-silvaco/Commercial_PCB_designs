@@ -1,0 +1,316 @@
+(footprint "TRIM_3296W-1-103"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 6.4 0 180)
+		(layer "F.SilkS")
+		(uuid "2931092c-4ece-4c61-a49e-8929977332db")
+		(effects
+			(font
+				(size 1.004283 1.004283)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "10k"
+		(at 5.17266 3.623835 180)
+		(layer "F.Fab")
+		(uuid "86da91b0-8064-49aa-8c02-d81c24cbb629")
+		(effects
+			(font
+				(size 1.002449 1.002449)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/3296.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c15efa73-4b11-4cf2-88ad-9bedaa596012")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "TRIMMER 10K OHM 0.5W PC PIN TOP"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de1b07b7-2b7e-4532-b323-bb8d57453bae")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Sim.Device" "R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0b9b587e-3ca0-4710-b380-877bea2a7d2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Type" "POT"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96b31370-3505-40d1-8bbb-4117853b62ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" "1=r0 2=wiper 3=r1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a38ea39-2a70-48f9-acce-64a1905c078d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Bourns Inc,"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2ad7a5b-0fb4-4431-9911-612a041be4b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "Rectangular - 0.375\" x 0.190\" Face (9.53mm x 4.83mm)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c42496fb-deca-4b31-a7a7-93d58f9e41fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part number" "3296W-1-103"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4dd64874-b727-4816-8e7d-edc63d004e3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Potentiometer*")
+	(sheetname "/")
+	(sheetfile "LM2596S_adj.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.765 -2.42)
+		(end 4.765 -2.42)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "310655fa-3e83-4649-aac7-bf41f5bab6ff")
+	)
+	(fp_line
+		(start -4.765 2.41)
+		(end -4.765 -2.42)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "67bda9ee-7ce7-49bd-a8ad-e4a331a9fd72")
+	)
+	(fp_line
+		(start 4.765 -2.42)
+		(end 4.765 2.41)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3bd20065-af56-44cf-bee6-f99dc5c57a54")
+	)
+	(fp_line
+		(start 4.765 2.41)
+		(end -4.765 2.41)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "387ba90a-9d0c-4ce8-9a5f-3ed551c5e692")
+	)
+	(fp_circle
+		(center -5.25 0)
+		(end -5.15 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8ef0c76d-7fdb-4ddc-91e9-3fbe1905b42e")
+	)
+	(fp_line
+		(start -5.015 -2.67)
+		(end 5.015 -2.67)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1cf58c68-afa4-4a91-8149-ac4ac903558f")
+	)
+	(fp_line
+		(start -5.015 2.66)
+		(end -5.015 -2.67)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "61b04377-f2ef-4127-8067-48e1b645b767")
+	)
+	(fp_line
+		(start 5.015 -2.67)
+		(end 5.015 2.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "db171105-1856-460f-abbc-49f3eccc3640")
+	)
+	(fp_line
+		(start 5.015 2.66)
+		(end -5.015 2.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0cca1b84-879e-4d46-a603-5061825cc034")
+	)
+	(fp_line
+		(start -4.765 -2.42)
+		(end 4.765 -2.42)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9a2469f9-919d-435d-9ec1-bfbb3313d4e6")
+	)
+	(fp_line
+		(start -4.765 2.41)
+		(end -4.765 -2.42)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "26f54215-842c-49ab-b694-2995eddc6b0e")
+	)
+	(fp_line
+		(start 4.765 -2.42)
+		(end 4.765 2.41)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "20529c6f-0374-430a-a400-2bd1a6cc9c4a")
+	)
+	(fp_line
+		(start 4.765 2.41)
+		(end -4.765 2.41)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "76781de3-e537-4b66-b34c-04957f012cb6")
+	)
+	(fp_circle
+		(center -3.81 0)
+		(end -3.71 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8212c03a-0d44-4599-968c-8fb1762bbcdb")
+	)
+	(pad "1" thru_hole rect
+		(at -2.54 0)
+		(size 1.218 1.218)
+		(drill 0.71)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(zone_connect 2)
+		(uuid "21846afe-9def-4d69-aeab-1e8b297e8d4a")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 1.218 1.218)
+		(drill 0.71)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(zone_connect 2)
+		(uuid "77ed6aa9-647b-4ad3-bab2-b401586f7e4a")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0)
+		(size 1.218 1.218)
+		(drill 0.71)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "609b7769-7a71-4000-b5d3-157d0ce804da")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/libs/3D Models/3296W-1-103.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
