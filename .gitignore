@@ -1,0 +1,19 @@
+# KiCad backups and caches
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.pro
+*-save.kicad_pcb
+_autosave-*
+fp-info-cache
+*.lck
+~*.lck
+
+# Per-user view settings (window layout, layer visibility)
+*.kicad_prl
+
+# OS junk
+.DS_Store
+Thumbs.db
