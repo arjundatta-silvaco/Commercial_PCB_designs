@@ -1,0 +1,74 @@
+Academic and Educational Use License
+Version 1.0
+
+Copyright (c) 2026 Arjun Datta
+
+This license applies to the hardware designs, schematics, PCB layouts,
+footprints, symbols, documentation and other files in this repository
+(the "Work"), except where noted under "Third-Party Material" below.
+
+1. PERMITTED USE
+
+   You may, free of charge, use, copy, study, modify, and build the Work,
+   and share the Work or your modified versions of it, only for:
+
+   a) personal learning and self-study;
+   b) teaching, coursework, and classroom or laboratory instruction;
+   c) non-commercial academic research.
+
+2. RESTRICTIONS
+
+   You may NOT, without prior written permission from the copyright holder:
+
+   a) use the Work, or any design derived from it, in a commercial product
+      or service;
+   b) manufacture, assemble, or have manufactured boards based on the Work
+      for sale, resale, or any other commercial distribution;
+   c) use the Work, or any design derived from it, in production
+      equipment or in any deployment beyond prototyping, study, or
+      research;
+   d) sell, sublicense, or charge a fee for the Work or derivatives of it,
+      except to recover the actual cost of materials when sharing a
+      physical board for educational purposes.
+
+3. CONDITIONS
+
+   a) Attribution: You must keep this license file and the copyright
+      notice in all copies and derivatives of the Work, and credit
+      "Arjun Datta" with a link to the original repository.
+   b) Share-alike: Any modified version of the Work that you share must be
+      licensed under the same terms as this license.
+   c) Changes: Modified versions must state clearly that they have been
+      changed from the original.
+
+4. THIRD-PARTY MATERIAL
+
+   Some files in this repository, such as manufacturer 3D models (.step,
+   .stp), footprints, or datasheet-derived data, belong to their
+   respective owners and are subject to those owners' own terms. This
+   license does not grant any rights to such third-party material.
+
+5. NO WARRANTY
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE DESIGNS HAVE
+   NOT BEEN CERTIFIED FOR SAFETY, EMC, OR ANY REGULATORY STANDARD.
+
+6. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY, INCLUDING DAMAGE TO PROPERTY, EQUIPMENT, BATTERIES,
+   OR PERSONS, ARISING FROM THE USE, CONSTRUCTION, OR OPERATION OF THE
+   WORK. Power electronics and lithium batteries can cause fire or injury;
+   you build and use the Work entirely at your own risk.
+
+7. TERMINATION
+
+   Your rights under this license end automatically if you breach any of
+   its terms.
+
+8. COMMERCIAL LICENSING
+
+   For commercial or production use, contact the copyright holder through
+   the GitHub repository to request a separate license.
