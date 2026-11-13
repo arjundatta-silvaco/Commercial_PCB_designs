@@ -2773,7 +2773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Buck_LM2596S_adj:WE-PD-1280 12.8x12.8x5.4"
+		(property "Footprint" "Inductor_SMD:L_Wuerth_WE-PD-Typ-LS"
 			(at 154.94 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2784,7 +2784,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/744770133.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7447709470.pdf"
 			(at 154.94 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2795,7 +2795,7 @@
 				)
 			)
 		)
-		(property "Description" "FIXED IND 33UH 3.6A 53 MOHM SMD"
+		(property "Description" "FIXED IND 47UH 3.8A 60 MOHM SMD"
 			(at 154.94 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2817,7 +2817,7 @@
 				)
 			)
 		)
-		(property "Part number" "744770133"
+		(property "Part number" "7447709470"
 			(at 154.94 69.85 90)
 			(hide yes)
 			(show_name no)
