@@ -15,7 +15,7 @@ Support the blog and the GitHub: [https://razorpay.me/@semiconworld](https://raz
 #### Currently in the Repository:
 
 * LM2596S-adj Buck converter 9-12.9V to 5V 3A: Complete
-* TP5100 Battery Charger 2S: Only Circuit
+* TP5100 Battery Charger 2S: Complete
 * HX-2S-JH20: Only Circuit
 * HUSB238 USB-C Power Delivery: Planned
 * ESP-32 DEVKIT V1 WROOM-32: Planned
