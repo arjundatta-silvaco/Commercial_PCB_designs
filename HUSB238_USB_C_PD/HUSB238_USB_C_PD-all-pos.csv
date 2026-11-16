@@ -1,0 +1,29 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","1 uF","C_0603_1608Metric",144.175000,-85.500000,180.000000,top
+"F1","5A Fuse","Fuse_0603_1608Metric",148.550000,-82.600000,180.000000,top
+"J1","USB_C_4105-GF-A","USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal",145.360000,-76.945000,180.000000,top
+"J2","Conn_01x01_Pin","SolderWire-0.25sqmm_1x01_D0.65mm_OD1.7mm",142.600000,-97.100000,0.000000,top
+"J3","Conn_01x01_Pin","SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm",134.050000,-96.900000,0.000000,top
+"J4","Conn_01x01_Pin","SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm",137.000000,-96.900000,0.000000,top
+"J5","Conn_01x01_Pin","SolderWire-0.25sqmm_1x01_D0.65mm_OD1.7mm",146.500000,-97.100000,0.000000,top
+"J6","Conn_01x01_Pin","SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm",152.350000,-97.100000,0.000000,top
+"J7","Conn_01x01_Pin","SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm",155.400000,-97.100000,0.000000,top
+"JP1","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",134.200000,-82.300000,180.000000,top
+"JP2","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",134.200000,-84.900000,180.000000,top
+"JP3","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",134.300000,-91.200000,180.000000,top
+"JP4","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",155.950000,-78.800000,0.000000,top
+"JP5","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",156.050000,-82.350000,0.000000,top
+"JP6","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",156.100000,-86.150000,0.000000,top
+"JP7","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",156.100000,-89.700000,0.000000,top
+"JP8","SolderJumper_2_Open","SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm",156.100000,-93.250000,0.000000,top
+"Q1","AO4407A","SOIC-8_3.9x4.9mm_P1.27mm",142.100000,-90.900000,180.000000,top
+"R1","10","R_0603_1608Metric",144.175000,-83.850000,0.000000,top
+"R2","49.9k","R_0603_1608Metric",146.900000,-89.275000,-90.000000,top
+"R3","5.1k","R_0603_1608Metric",144.200000,-87.150000,0.000000,top
+"R4","10.5k","R_0603_1608Metric",134.200000,-87.000000,180.000000,top
+"R5","22.6k","R_0603_1608Metric",134.200000,-88.900000,180.000000,top
+"R6","6.04k","R_0603_1608Metric",152.675000,-82.450000,0.000000,top
+"R7","10k","R_0603_1608Metric",152.675000,-86.150000,0.000000,top
+"R8","14k","R_0603_1608Metric",152.725000,-89.800000,0.000000,top
+"R9","17.8k","R_0603_1608Metric",152.775000,-93.250000,0.000000,top
+"U1","HUSB238_002DD","WDFN-10-1EP_3x3mm_P0.5mm_EP1.8x2.5mm",139.370000,-85.360000,180.000000,top
